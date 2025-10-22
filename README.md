@@ -1,1 +1,1 @@
-# ikimori.github.com
+# [ikimori.github.io](https://ikimori.github.io/)
